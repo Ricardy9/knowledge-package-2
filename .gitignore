@@ -1,24 +1,30 @@
-# Local configuration and secrets
-kp.toml
+# Local secrets
 .env
 .env.*
 
-# Confidential inputs, working materials and outputs: only folder READMEs are tracked
-inputs/**
-!inputs/**/
-!inputs/**/README.md
-package/**
-!package/**/
-!package/**/README.md
-outputs/**
-!outputs/**/
-!outputs/**/README.md
+# Your own projects stay on your computer
+projects/*
+!projects/README.md
 
-# Python
+# Never commit downloaded documents in the example
+example-mexico-displacement/02_sources/**/*.pdf
+example-mexico-displacement/02_sources/**/*.docx
+
+# Advanced runner: local data and config
+advanced/kp.toml
+advanced/inputs/**
+!advanced/inputs/**/
+!advanced/inputs/**/README.md
+advanced/package/**
+!advanced/package/**/
+!advanced/package/**/README.md
+advanced/outputs/**
+!advanced/outputs/**/
+!advanced/outputs/**/README.md
+
+# Python and editors
 .venv/
 __pycache__/
 *.pyc
 .pytest_cache/
-
-# Office lock files
 ~$*
