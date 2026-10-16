@@ -1,0 +1,1 @@
+**You populate.** The source documents evidence is drawn from (PDF, DOCX, TXT, MD). Make one subfolder per themed collection, for example `corpus/economy/`. Files placed directly here go into the collection `default`. Scanned PDFs without a text layer cannot be read. Run `python -m kp ingest` after adding files.
