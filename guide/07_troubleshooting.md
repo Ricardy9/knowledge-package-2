@@ -11,4 +11,4 @@
 | A CSV file looks jumbled in Excel | Open Excel first, then use **Data → From Text/CSV**, choose the file and pick UTF-8. |
 | I want a second project | Type `/setup` again with a different project name. Each project has its own folder in `projects/`. |
 | I want to restart a project | Ask the AI guide to move the project folder into an archive. Nothing is deleted. |
-| Can I use an AI tool other than Claude Code? | Yes. Open the folder in that tool and paste the matching file from `prompts/ai-assistant/` (for example `setup.md`). |
+| Can I use an AI tool other than Claude Code? | Yes. Open the kit folder in that tool and ask it to follow `CLAUDE.md`, then say what you want to do (for example "run the setup"). |

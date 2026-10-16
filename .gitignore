@@ -10,18 +10,6 @@ projects/*
 example-mexico-displacement/02_sources/**/*.pdf
 example-mexico-displacement/02_sources/**/*.docx
 
-# Advanced runner: local data and config
-advanced/kp.toml
-advanced/inputs/**
-!advanced/inputs/**/
-!advanced/inputs/**/README.md
-advanced/package/**
-!advanced/package/**/
-!advanced/package/**/README.md
-advanced/outputs/**
-!advanced/outputs/**/
-!advanced/outputs/**/README.md
-
 # Python and editors
 .venv/
 __pycache__/

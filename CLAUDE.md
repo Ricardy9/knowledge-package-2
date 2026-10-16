@@ -31,7 +31,6 @@ You are guiding a researcher, who may have no technical background, through this
 ## Where things are
 - `START_HERE.md` and `guide/`: the step-by-step guide for the user.
 - `prompts/notebooklm/`: prompts the user pastes into NotebookLM.
-- `.claude/commands/`: the procedure for each step (the same text is in `prompts/ai-assistant/`).
+- `.claude/commands/`: the procedure for each step.
 - `project-template/`: the empty workspace that setup copies.
 - `projects/<name>/`: the user's projects.
-- `advanced/`: an optional Python tool. Do not use it unless the user asks.

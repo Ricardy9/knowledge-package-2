@@ -1,1 +1,0 @@
-**Claude Code writes, the Lead approves.** The standing rules for this product: style, citation, source tiers, structure. They are built from `inputs/direction_brief.md` and `instructions/rulebook_templates/`. Each rule lives in exactly one file. Approval is recorded with `python -m kp approve rulebook --by "Name"`.
