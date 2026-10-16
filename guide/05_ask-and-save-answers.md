@@ -20,7 +20,7 @@ For each question in the pack, from top to bottom:
 2. The AI guide does three things:
    - saves the answer **word for word** in `06_answers/`;
    - adds each quoted finding to `07_evidence-log/evidence_log.csv`, with its source and page;
-   - marks the question **Answered**, or **Needs follow-up** if the answer was thin, had no citations, or said NOT FOUND.
+   - marks the question **Answered**, or **Needs follow-up** if the answer said NOT FOUND, had points without citations, or you tell it the answer was thin.
 3. Move on to the next question in the pack.
 
 ## When the answer says NOT FOUND IN SOURCES

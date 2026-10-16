@@ -1,4 +1,4 @@
-> **If your AI tool has no slash commands** (for example Codex or Copilot), paste the text below into it, then answer its questions. Where it says `$ARGUMENTS`, it means anything you typed after the request.
+> **If your AI tool has no slash commands** (for example Codex or Copilot), paste the text below into it, then answer its questions. Where it says `$ARGUMENTS`, it means anything you typed after the request. (This copy is generated from `.claude/commands/`; edit that file, not this one.)
 
 Write a short working summary using only the evidence log. Follow `CLAUDE.md` rules throughout.
 

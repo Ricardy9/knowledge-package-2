@@ -29,7 +29,7 @@ Question id given with the command (optional): $ARGUMENTS
      - `Medium` if it supports it less directly;
      - `Low` if it is unclear.
 
-   Never add a finding that is not in the pasted answer.
+   Points without a quote and a source get no row. If a finding contains double quotes, double them inside the CSV value (`""`). Never add a finding that is not in the pasted answer.
 5. Update the question's status in `question_bank.csv`:
    - set it to `Needs follow-up` if any of these applies:
      - the answer says NOT FOUND IN SOURCES;

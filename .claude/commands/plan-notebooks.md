@@ -1,7 +1,7 @@
 Plan which documents go into which NotebookLM notebook. Follow `CLAUDE.md` rules throughout.
 
 1. Find out which project (use the only one if there is just one).
-2. Read `02_sources/source_register.csv` and `03_questions/question_bank.csv`.
+2. Read `02_sources/source_register.csv` and `03_questions/question_bank.csv`. If the source register has no rows yet, stop and say: "You have no documents recorded yet. Put your PDFs in the theme folders inside 02_sources, then type /add-source." Do not make a plan or suggest sources.
 3. Group the sources into 1–4 focused notebooks.
    - Group by theme, or by the questions they answer.
    - Smaller, focused notebooks give better answers than one notebook with everything. NotebookLM also limits how many sources a notebook can hold.

@@ -1,4 +1,4 @@
-> **If your AI tool has no slash commands** (for example Codex or Copilot), paste the text below into it, then answer its questions. Where it says `$ARGUMENTS`, it means anything you typed after the request.
+> **If your AI tool has no slash commands** (for example Codex or Copilot), paste the text below into it, then answer its questions. Where it says `$ARGUMENTS`, it means anything you typed after the request. (This copy is generated from `.claude/commands/`; edit that file, not this one.)
 
 Save a NotebookLM answer word for word, and record its findings in the evidence log. Follow `CLAUDE.md` rules throughout. This step must never change the answer's wording.
 
@@ -31,7 +31,7 @@ Question id given with the command (optional): $ARGUMENTS
      - `Medium` if it supports it less directly;
      - `Low` if it is unclear.
 
-   Never add a finding that is not in the pasted answer.
+   Points without a quote and a source get no row. If a finding contains double quotes, double them inside the CSV value (`""`). Never add a finding that is not in the pasted answer.
 5. Update the question's status in `question_bank.csv`:
    - set it to `Needs follow-up` if any of these applies:
      - the answer says NOT FOUND IN SOURCES;

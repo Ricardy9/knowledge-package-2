@@ -1,4 +1,4 @@
-> **If your AI tool has no slash commands** (for example Codex or Copilot), paste the text below into it, then answer its questions. Where it says `$ARGUMENTS`, it means anything you typed after the request.
+> **If your AI tool has no slash commands** (for example Codex or Copilot), paste the text below into it, then answer its questions. Where it says `$ARGUMENTS`, it means anything you typed after the request. (This copy is generated from `.claude/commands/`; edit that file, not this one.)
 
 Show the project's progress in plain language. This step changes no files.
 
@@ -9,7 +9,7 @@ Show the project's progress in plain language. This step changes no files.
    - **Waiting for NotebookLM:** the questions with status Asked, and the query pack they are in.
    - **Needs follow-up:** each question with one line on why. Read its answer file to tell whether it was NOT FOUND or missing citations.
    - **Evidence:** the number of findings, and the sources with no findings yet.
-   - **The single most useful next step:**
+   - **The single most useful next step** (check in this order and pick the first that applies):
      - `/save-answer` if questions are Asked;
      - `/make-query-pack` if questions are Open;
      - prompt 02 or a new source if questions need follow-up;
