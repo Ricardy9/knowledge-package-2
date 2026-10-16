@@ -2,7 +2,7 @@
 
 **Who:** the AI guide plans, you create the notebooks. **Command:** `/plan-notebooks`.
 
-NotebookLM is a free Google tool that answers questions using only the documents you upload, and shows where each answer comes from.
+NotebookLM is a free Google tool that answers questions using only the documents you upload, and shows where each answer comes from. When you open notebooklm.google.com, Google may show it as "Gemini Notebook". It is the same tool, and the steps below still apply (button names may differ slightly).
 
 1. **Type `/plan-notebooks`.** The AI guide proposes 1–4 notebooks, each holding a focused group of documents, and says which questions each notebook will answer. Agree or ask for changes. It saves the plan in `04_notebooks/notebook_plan.md`.
 

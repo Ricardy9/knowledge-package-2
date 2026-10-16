@@ -8,7 +8,7 @@ You do not need to know how to code.
 
 ## What you need
 - A computer (Windows or Mac).
-- A free Google account, to use NotebookLM at notebooklm.google.com.
+- A free Google account, to use NotebookLM at notebooklm.google.com. (Google may show it under the name "Gemini Notebook". It is the same tool, and the address still works.)
 - **Claude Code**, the AI guide. Download it from https://claude.ai/download.
 
 ## Three steps to begin

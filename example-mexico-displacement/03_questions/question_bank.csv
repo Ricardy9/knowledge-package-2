@@ -1,0 +1,11 @@
+id,question,theme,priority,status,still_true_check,period_start,notebook,notes
+Q01,How many new internal displacements linked to conflict and violence were recorded in Mexico in 2025?,scale-and-trends,High,Open,no,,Mexico displacement – Scale and causes,
+Q02,How many new disaster-related internal displacements were recorded in Mexico in 2025?,scale-and-trends,High,Open,no,,Mexico displacement – Scale and causes,
+Q03,How many people did Mexico's 2020 Census record as displaced by violence or insecurity?,scale-and-trends,Medium,Open,no,,Mexico displacement – Scale and causes,
+Q04,Why is the 2020 Census count considered an underestimate of internal displacement in Mexico?,scale-and-trends,Medium,Open,no,,Mexico displacement – Scale and causes,
+Q05,Is violence by organized criminal groups identified as a driver of internal displacement in Mexico?,causes,High,Open,no,,Mexico displacement – Scale and causes,
+Q06,Are development projects identified as a driver of internal displacement in Mexico?,causes,Medium,Open,no,,Mexico displacement – Scale and causes,
+Q07,What was the largest single conflict- or violence-related displacement event in Mexico in 2018?,affected-groups-and-places,Medium,Open,no,,"Mexico displacement – Groups, places and response",
+Q08,Are Indigenous Peoples identified as disproportionately affected by internal displacement in Mexico?,affected-groups-and-places,High,Open,no,,"Mexico displacement – Groups, places and response",
+Q09,Do gaps in federal legislation on internal displacement in Mexico still exist?,policy-and-response,High,Open,yes,2023,"Mexico displacement – Groups, places and response","Earlier finding: ""The UN Special Rapporteur's 2023 report describes gaps in legislation and policy on internal displacement at federal and state level."""
+Q10,Does the World Bank–UNHCR Joint Data Center recommend including internally displaced persons in Mexico's national statistics?,policy-and-response,Medium,Open,no,,Mexico displacement – Scale and causes,
