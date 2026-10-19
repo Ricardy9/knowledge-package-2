@@ -27,8 +27,8 @@ For each question in the pack, from top to bottom:
 This is a real result: your documents do not cover that point. Options:
 - add a document that does cover it (`/add-source`), upload it to the notebook, and ask again;
 - reword the question if it was unclear;
-- or accept the gap. It will be listed in your summary.
+- or accept the gap. It will be listed in your draft.
 
 Never fill the gap from memory, or from an AI answer that has no source.
 
-**Next:** `06_track-progress-and-summarize.md`
+**Next:** `06_track-progress-and-draft.md`

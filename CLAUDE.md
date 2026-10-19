@@ -10,7 +10,7 @@ You are guiding a researcher, who may have no technical background, through this
   - make today's query pack: `/make-query-pack`
   - save a NotebookLM answer: `/save-answer`
   - see progress: `/status`
-  - write a working summary: `/draft`
+  - write a working draft: `/draft`
 - The worked example is in `example-mexico-displacement/`. Point to it whenever the user is unsure what a good answer looks like.
 - If the user writes in plain words instead of a command ("I have a new PDF", "here is NotebookLM's answer"), recognise which step they mean and follow that command's file in `.claude/commands/`.
 

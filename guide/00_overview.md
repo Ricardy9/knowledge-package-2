@@ -14,7 +14,7 @@ The kit turns a pile of documents into answers you can trust. Every finding poin
 | 4. Ask | AI guide, you, NotebookLM | The AI guide prepares the questions and prompts; you paste them into NotebookLM | `/make-query-pack` |
 | 5. Save | You + AI guide | You paste each answer back; the AI guide saves it word for word and logs the findings | `/save-answer` |
 | Check progress | AI guide | A plain-language progress report | `/status` |
-| Summarize (optional) | AI guide | A short summary built only from logged findings | `/draft` |
+| Draft (optional) | AI guide | A short draft built only from logged findings | `/draft` |
 
 You repeat steps 4 and 5 until your questions are answered. You can add sources or questions at any time.
 
@@ -31,7 +31,7 @@ Setup creates a folder for your project inside `projects/`:
 | `05_query-packs` | Today's questions, with the exact prompts to paste |
 | `06_answers` | NotebookLM's answers, saved word for word |
 | `07_evidence-log` | Every finding, linked to its answer, source and page |
-| `08_outputs` | Summaries |
+| `08_outputs` | Drafts |
 | `09_archive` | Old versions (nothing is ever deleted) |
 
 ## Three rules

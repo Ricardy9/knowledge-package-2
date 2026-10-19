@@ -1,4 +1,4 @@
-# 06 Track progress and write a summary
+# 06 Track progress and write a draft
 
 **Who:** the AI guide, checked by you. **Commands:** `/status`, `/draft`.
 
@@ -11,8 +11,8 @@
 
 `/status` never changes your files. Use it whenever you come back to the project.
 
-## Write a working summary (optional)
-**Type `/draft`** when most questions are answered. The AI guide writes `08_outputs/<date>_summary.md`:
+## Write a working draft (optional)
+**Type `/draft`** when most questions are answered. The AI guide writes `08_outputs/<date>_draft.md`:
 - a short answer to each main question, where every sentence ends with the finding ids it rests on, for example (F003, F007);
 - a **Gaps** section listing what the evidence does not cover;
 - the sources used.
@@ -20,7 +20,7 @@
 It uses **only** the findings in your evidence log, never outside knowledge.
 
 ## Before you share anything
-Check each finding id the summary cites:
+Check each finding id the draft cites:
 1. find the row in `07_evidence-log/evidence_log.csv`;
 2. open its answer file in `06_answers/`;
 3. if needed, open the source at the page given.
