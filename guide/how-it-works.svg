@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" font-family="Segoe UI, Helvetica Neue, Helvetica, Arial, sans-serif">
   <title>How the Knowledge Package Starter Kit works</title>
-  <desc>You bring documents and questions. Step 1, set up: the AI guide turns your topic into small checkable questions. Step 2, organize sources: documents are recorded and grouped into NotebookLM notebooks. Step 3, ask: NotebookLM answers each question from your documents only, with quotes and pages. Step 4, save: each answer is saved word for word and each finding is logged with its source and page. Result: a summary where every sentence cites its findings. Gaps and NOT FOUND results loop back as new questions or new sources.</desc>
+  <desc>You bring documents and questions. Step 1, set up: the AI guide turns your topic into small checkable questions. Step 2, organize sources: documents are recorded and grouped into NotebookLM notebooks. Step 3, ask: NotebookLM answers each question from your documents only, with quotes and pages. Step 4, save: each answer is saved word for word and each finding is logged with its source and page. Result: a draft where every sentence cites its findings. Gaps and NOT FOUND results loop back as new questions or new sources.</desc>
   <rect width="1600" height="900" fill="#FFFFFF"/>
 
   <!-- Title -->
@@ -41,7 +41,7 @@
   <text x="560" y="268" font-size="21" font-weight="700" fill="#1E3A5F">Sources &amp; notebooks</text>
   <text x="830" y="268" font-size="21" font-weight="700" fill="#1E3A5F">NotebookLM</text>
   <text x="1100" y="268" font-size="21" font-weight="700" fill="#1E3A5F">Evidence</text>
-  <text x="1368" y="268" font-size="21" font-weight="700" fill="#FFFFFF">Summary</text>
+  <text x="1368" y="268" font-size="21" font-weight="700" fill="#FFFFFF">Draft</text>
 
   <!-- Box body -->
   <text x="290" y="300" font-size="17" fill="#475569">Your topic and main</text>
@@ -109,7 +109,7 @@
   <text x="1195" y="634" font-size="15" fill="#475569" text-anchor="middle">answers never edited;</text>
   <text x="1195" y="655" font-size="15" fill="#475569" text-anchor="middle">findings traceable</text>
 
-  <text x="1435" y="582" font-size="18" font-weight="700" fill="#1E293B" text-anchor="middle">Summaries</text>
+  <text x="1435" y="582" font-size="18" font-weight="700" fill="#1E293B" text-anchor="middle">Drafts</text>
   <text x="1435" y="612" font-size="15" fill="#475569" text-anchor="middle">built only from</text>
   <text x="1435" y="633" font-size="15" fill="#475569" text-anchor="middle">logged findings</text>
 
