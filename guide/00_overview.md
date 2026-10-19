@@ -2,6 +2,8 @@
 
 The kit turns a pile of documents into answers you can trust. Every finding points to a quote, a source and a page.
 
+![How the starter kit works](how-it-works.svg)
+
 ## The loop
 
 | Step | Who | What happens | Command |

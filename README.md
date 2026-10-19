@@ -2,6 +2,8 @@
 
 A ready-made research workspace. You bring the documents; an AI guide sets everything up with you, and NotebookLM answers your questions using only your documents. Every finding is saved with its quote, source and page. No coding needed.
 
+![How the starter kit works: you bring documents and questions; set up, organize sources, ask NotebookLM, save evidence, get a cited summary](guide/how-it-works.svg)
+
 ## How to start
 
 1. Click the green **Code** button above, then **Download ZIP**, and unzip it.

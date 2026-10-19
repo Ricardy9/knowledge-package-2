@@ -1,0 +1,140 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" font-family="Segoe UI, Helvetica Neue, Helvetica, Arial, sans-serif">
+  <title>How the Knowledge Package Starter Kit works</title>
+  <desc>You bring documents and questions. Step 1, set up: the AI guide turns your topic into small checkable questions. Step 2, organize sources: documents are recorded and grouped into NotebookLM notebooks. Step 3, ask: NotebookLM answers each question from your documents only, with quotes and pages. Step 4, save: each answer is saved word for word and each finding is logged with its source and page. Result: a summary where every sentence cites its findings. Gaps and NOT FOUND results loop back as new questions or new sources.</desc>
+  <rect width="1600" height="900" fill="#FFFFFF"/>
+
+  <!-- Title -->
+  <text x="80" y="78" font-size="20" font-weight="700" letter-spacing="4" fill="#0F766E">HOW IT WORKS</text>
+  <text x="80" y="132" font-size="44" font-weight="700" fill="#1E293B">From documents to traceable evidence</text>
+
+  <!-- Column labels -->
+  <text x="80" y="210" font-size="22" font-weight="700" fill="#1E293B">You bring</text>
+  <circle cx="288" cy="203" r="17" fill="#FFFFFF" stroke="#1E3A5F" stroke-width="2"/>
+  <text x="288" y="209" font-size="18" font-weight="700" text-anchor="middle" fill="#1E3A5F">1</text>
+  <text x="316" y="210" font-size="22" font-weight="700" fill="#1E293B">Set up</text>
+  <circle cx="558" cy="203" r="17" fill="#FFFFFF" stroke="#1E3A5F" stroke-width="2"/>
+  <text x="558" y="209" font-size="18" font-weight="700" text-anchor="middle" fill="#1E3A5F">2</text>
+  <text x="586" y="210" font-size="22" font-weight="700" fill="#1E293B">Organize sources</text>
+  <circle cx="828" cy="203" r="17" fill="#FFFFFF" stroke="#1E3A5F" stroke-width="2"/>
+  <text x="828" y="209" font-size="18" font-weight="700" text-anchor="middle" fill="#1E3A5F">3</text>
+  <text x="856" y="210" font-size="22" font-weight="700" fill="#1E293B">Ask</text>
+  <circle cx="1098" cy="203" r="17" fill="#FFFFFF" stroke="#1E3A5F" stroke-width="2"/>
+  <text x="1098" y="209" font-size="18" font-weight="700" text-anchor="middle" fill="#1E3A5F">4</text>
+  <text x="1126" y="210" font-size="22" font-weight="700" fill="#1E293B">Save</text>
+  <text x="1350" y="210" font-size="22" font-weight="700" fill="#1E293B">Result</text>
+
+  <!-- You -->
+  <circle cx="155" cy="262" r="14" fill="none" stroke="#1E3A5F" stroke-width="2.5"/>
+  <path d="M129 308 C129 284 181 284 181 308" fill="none" stroke="#1E3A5F" stroke-width="2.5"/>
+  <text x="155" y="350" font-size="19" font-weight="700" fill="#1E293B" text-anchor="middle">Your documents</text>
+  <text x="155" y="374" font-size="19" font-weight="700" fill="#1E293B" text-anchor="middle">and questions</text>
+
+  <!-- Stage boxes (AI-guided, dashed) -->
+  <rect x="270" y="232" width="230" height="200" rx="14" fill="#F8FAFC" stroke="#64748B" stroke-width="2" stroke-dasharray="9 7"/>
+  <rect x="540" y="232" width="230" height="200" rx="14" fill="#F8FAFC" stroke="#64748B" stroke-width="2" stroke-dasharray="9 7"/>
+  <rect x="810" y="232" width="230" height="200" rx="14" fill="#F8FAFC" stroke="#64748B" stroke-width="2" stroke-dasharray="9 7"/>
+  <rect x="1080" y="232" width="230" height="200" rx="14" fill="#F8FAFC" stroke="#64748B" stroke-width="2" stroke-dasharray="9 7"/>
+  <rect x="1350" y="232" width="170" height="200" rx="14" fill="#1E3A5F"/>
+
+  <!-- Box titles -->
+  <text x="290" y="268" font-size="21" font-weight="700" fill="#1E3A5F">Your workspace</text>
+  <text x="560" y="268" font-size="21" font-weight="700" fill="#1E3A5F">Sources &amp; notebooks</text>
+  <text x="830" y="268" font-size="21" font-weight="700" fill="#1E3A5F">NotebookLM</text>
+  <text x="1100" y="268" font-size="21" font-weight="700" fill="#1E3A5F">Evidence</text>
+  <text x="1368" y="268" font-size="21" font-weight="700" fill="#FFFFFF">Summary</text>
+
+  <!-- Box body -->
+  <text x="290" y="300" font-size="17" fill="#475569">Your topic and main</text>
+  <text x="290" y="324" font-size="17" fill="#475569">questions become small,</text>
+  <text x="290" y="348" font-size="17" fill="#475569">checkable questions</text>
+  <text x="560" y="300" font-size="17" fill="#475569">Documents recorded and</text>
+  <text x="560" y="324" font-size="17" fill="#475569">grouped into focused</text>
+  <text x="560" y="348" font-size="17" fill="#475569">NotebookLM notebooks</text>
+  <text x="830" y="300" font-size="17" fill="#475569">Answers each question</text>
+  <text x="830" y="324" font-size="17" fill="#475569">from your documents only,</text>
+  <text x="830" y="348" font-size="17" fill="#475569">with quotes and pages</text>
+  <text x="1100" y="300" font-size="17" fill="#475569">Answer saved word for</text>
+  <text x="1100" y="324" font-size="17" fill="#475569">word; each finding logged</text>
+  <text x="1100" y="348" font-size="17" fill="#475569">with its source and page</text>
+  <text x="1368" y="300" font-size="17" fill="#CBD5E1">Every sentence</text>
+  <text x="1368" y="324" font-size="17" fill="#CBD5E1">cites its findings;</text>
+  <text x="1368" y="348" font-size="17" fill="#CBD5E1">gaps are listed</text>
+
+  <!-- Commands -->
+  <text x="290" y="412" font-size="16" font-family="Consolas, Menlo, monospace" fill="#0F766E">/setup</text>
+  <text x="560" y="390" font-size="16" font-family="Consolas, Menlo, monospace" fill="#0F766E">/add-source</text>
+  <text x="560" y="412" font-size="16" font-family="Consolas, Menlo, monospace" fill="#0F766E">/plan-notebooks</text>
+  <text x="830" y="412" font-size="16" font-family="Consolas, Menlo, monospace" fill="#0F766E">/make-query-pack</text>
+  <text x="1100" y="412" font-size="16" font-family="Consolas, Menlo, monospace" fill="#0F766E">/save-answer</text>
+  <text x="1368" y="412" font-size="16" font-family="Consolas, Menlo, monospace" fill="#5EEAD4">/status  /draft</text>
+
+  <!-- Flow arrows (line + explicit head) -->
+  <line x1="226" y1="332" x2="258" y2="332" stroke="#334155" stroke-width="2.5"/>
+  <polygon points="256,325 268,332 256,339" fill="#334155"/>
+  <line x1="502" y1="332" x2="528" y2="332" stroke="#334155" stroke-width="2.5"/>
+  <polygon points="526,325 538,332 526,339" fill="#334155"/>
+  <line x1="772" y1="332" x2="798" y2="332" stroke="#334155" stroke-width="2.5"/>
+  <polygon points="796,325 808,332 796,339" fill="#334155"/>
+  <line x1="1042" y1="332" x2="1068" y2="332" stroke="#334155" stroke-width="2.5"/>
+  <polygon points="1066,325 1078,332 1066,339" fill="#334155"/>
+  <line x1="1312" y1="332" x2="1338" y2="332" stroke="#334155" stroke-width="2.5"/>
+  <polygon points="1336,325 1348,332 1336,339" fill="#334155"/>
+
+  <!-- Project folder band -->
+  <rect x="250" y="520" width="1290" height="232" rx="16" fill="#F1F5F9"/>
+  <text x="1522" y="742" font-size="16" font-weight="700" letter-spacing="2" fill="#64748B" text-anchor="end">YOUR PROJECT FOLDER</text>
+
+  <!-- Store boxes -->
+  <rect x="285" y="545" width="200" height="150" rx="12" fill="#FFFFFF" stroke="#94A3B8" stroke-width="2"/>
+  <rect x="555" y="545" width="200" height="150" rx="12" fill="#FFFFFF" stroke="#94A3B8" stroke-width="2"/>
+  <rect x="825" y="545" width="200" height="150" rx="12" fill="#FFFFFF" stroke="#94A3B8" stroke-width="2"/>
+  <rect x="1095" y="545" width="200" height="150" rx="12" fill="#FFFFFF" stroke="#94A3B8" stroke-width="2"/>
+  <rect x="1350" y="545" width="170" height="150" rx="12" fill="#FFFFFF" stroke="#94A3B8" stroke-width="2"/>
+
+  <text x="385" y="582" font-size="18" font-weight="700" fill="#1E293B" text-anchor="middle">Question bank</text>
+  <text x="385" y="612" font-size="15" fill="#475569" text-anchor="middle">one checkable</text>
+  <text x="385" y="633" font-size="15" fill="#475569" text-anchor="middle">question per row,</text>
+  <text x="385" y="654" font-size="15" fill="#475569" text-anchor="middle">with its status</text>
+
+  <text x="655" y="582" font-size="18" font-weight="700" fill="#1E293B" text-anchor="middle">Source register</text>
+  <text x="655" y="612" font-size="15" fill="#475569" text-anchor="middle">every document with</text>
+  <text x="655" y="633" font-size="15" fill="#475569" text-anchor="middle">its id, link and theme</text>
+
+  <text x="925" y="582" font-size="18" font-weight="700" fill="#1E293B" text-anchor="middle">Query packs</text>
+  <text x="925" y="612" font-size="15" fill="#475569" text-anchor="middle">dated, ready-to-paste</text>
+  <text x="925" y="633" font-size="15" fill="#475569" text-anchor="middle">prompts</text>
+
+  <text x="1195" y="582" font-size="18" font-weight="700" fill="#1E293B" text-anchor="middle">Answers +</text>
+  <text x="1195" y="604" font-size="18" font-weight="700" fill="#1E293B" text-anchor="middle">evidence log</text>
+  <text x="1195" y="634" font-size="15" fill="#475569" text-anchor="middle">answers never edited;</text>
+  <text x="1195" y="655" font-size="15" fill="#475569" text-anchor="middle">findings traceable</text>
+
+  <text x="1435" y="582" font-size="18" font-weight="700" fill="#1E293B" text-anchor="middle">Summaries</text>
+  <text x="1435" y="612" font-size="15" fill="#475569" text-anchor="middle">built only from</text>
+  <text x="1435" y="633" font-size="15" fill="#475569" text-anchor="middle">logged findings</text>
+
+  <!-- Box-to-folder connectors -->
+  <line x1="385" y1="434" x2="385" y2="533" stroke="#64748B" stroke-width="2" stroke-dasharray="6 5"/>
+  <polygon points="379,532 385,543 391,532" fill="#64748B"/>
+  <line x1="655" y1="434" x2="655" y2="533" stroke="#64748B" stroke-width="2" stroke-dasharray="6 5"/>
+  <polygon points="649,532 655,543 661,532" fill="#64748B"/>
+  <line x1="925" y1="434" x2="925" y2="533" stroke="#64748B" stroke-width="2" stroke-dasharray="6 5"/>
+  <polygon points="919,532 925,543 931,532" fill="#64748B"/>
+  <line x1="1195" y1="434" x2="1195" y2="533" stroke="#64748B" stroke-width="2" stroke-dasharray="6 5"/>
+  <polygon points="1189,532 1195,543 1201,532" fill="#64748B"/>
+  <line x1="1435" y1="434" x2="1435" y2="533" stroke="#64748B" stroke-width="2" stroke-dasharray="6 5"/>
+  <polygon points="1429,532 1435,543 1441,532" fill="#64748B"/>
+  <text x="395" y="482" font-size="16" fill="#64748B">writes</text>
+  <text x="665" y="482" font-size="16" fill="#64748B">records</text>
+  <text x="935" y="482" font-size="16" fill="#64748B">prepares</text>
+  <text x="1205" y="482" font-size="16" fill="#64748B">saves</text>
+  <text x="1445" y="482" font-size="16" fill="#64748B">writes</text>
+
+  <!-- Improvement loop -->
+  <path d="M1195 697 V790 H385 V710" fill="none" stroke="#0F766E" stroke-width="3"/>
+  <polygon points="378,711 385,698 392,711" fill="#0F766E"/>
+  <text x="790" y="824" font-size="19" font-weight="700" fill="#0F766E" text-anchor="middle">Gaps and "NOT FOUND" results become new questions or new sources</text>
+
+  <!-- Legend -->
+  <text x="80" y="874" font-size="15" fill="#64748B">Dashed box: a step you run with the AI guide (Claude Code)  ·  Grey band: files kept in your project folder  ·  Teal line: the improvement loop</text>
+</svg>
